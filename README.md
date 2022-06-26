@@ -8,7 +8,7 @@
   - Pipeline
   - Data
   - Model
-  - [hyperparameter tuning]
+  - hyperparameter tuning
   - webpage
 - [What we did per week](#📅-what-we-did-per-week)
 - [Takeaway](#✨-takeaway)
@@ -67,6 +67,13 @@ Team meaning : "자신의 고유의 아름다움과 개성을 찾아 자신에 �
 ----------------------------------------------------------
 ### [ webpage ]
 
+- Flask, html 를 이용하여 웹페이지 제작
+- Heroku 를 이용하여 웹페이지를 배포
+- 백엔드 서버는 GCP 를 사용
+- 웹페이지 시현 영상은 아래 링크 참고!
+
+
+  [More link🔗](https://github.com/junnnn-a/About_Me/blob/main/Models/readme.md)
 ----------------------------------------------------------
 ## 📅 What we did per week
 
