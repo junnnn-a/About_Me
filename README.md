@@ -48,12 +48,19 @@ Team meaning : "자신의 고유의 아름다움과 개성을 찾아 자신에 �
 
 ----------------------------------------------------------
 ### [ Model ]
+- About me model은 Dlib 모델을 활용한 닮은꼴 찾기 알고리즘 코드와, Stargan-v2 모델로 구성되어 있습니다.
 
-1. Dlib 모델을 활용한 닮은꼴 찾기 알고리즘
-2. Stargan-v2 모델
+  추가설명 ->  [More link🔗](https://github.com/junnnn-a/About_Me/tree/main/Models)
+
+1. Dlib 모델을 활용한 닮은꼴 찾기 알고리즘 코드 
+
+  
+    [More link🔗](https://github.com/junnnn-a/About_Me/tree/main/Models/lookalike%20algorithm)  
+
+2. Stargan-v2 모델 코드
 
 
-    [More link🔗](https://github.com/junnnn-a/About_Me/blob/main/Models/readme.md)
+    [More link🔗](https://github.com/junnnn-a/About_Me/tree/main/Models/StarGAN%20V2)
 
     
   ++ 코드 실행을 위한 데이터 링크 -> inf_code/models 폴더 내에 위치
