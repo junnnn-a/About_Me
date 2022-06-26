@@ -73,7 +73,7 @@ Team meaning : "자신의 고유의 아름다움과 개성을 찾아 자신에 �
 - 웹페이지 시현 영상은 아래 링크 참고!
 
 
-  [More link🔗](https://github.com/junnnn-a/About_Me/blob/main/Models/readme.md)
+  [More link🔗](https://github.com/junnnn-a/About_Me/tree/main/webpage)
 ----------------------------------------------------------
 ## 📅 What we did per week
 
