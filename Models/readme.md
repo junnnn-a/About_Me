@@ -8,6 +8,10 @@ About me model은 Dlib 모델을 활용한 닮은꼴 찾기 알고리즘 코드�
 - User_image를 입력시 Dlib모델로 29개 조건으로 수치화
   - 28개 조건
     - 턱 각도 계산, 얼굴에서 코 비율, 얼굴에서 눈 비율, 중안부, 하안부 비율
+- 닮은꼴 찾기 알고리즘 코드를 올바르게 만들었을까 의문이 생김
+  - 25000개의 이미지 score값들을 정규화 과정 진행
+  - 대부분 정규분포 모양을 보여줬고, 알고리즘 코드가 올바르게 만들어졌다고 판단
+      ![nomalization code](https://github.com/junnnn-a/About_Me/blob/main/Models/lookalike%20algorithm/score_Normalization.ipynb)
 - 연예인의 데이터 수치와 비교하여 score 계산
 - Score가 높은 3개 연예인 사진 선택
 
