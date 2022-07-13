@@ -1,4 +1,5 @@
-# 🌟 AIFFELTHON 🌟
+# 🌟 AIFFELTHON 🌟 
+![PPT](https://github.com/junnnn-a/About_Me/blob/main/images/About_Me_%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pptx)
 ## Date : 2022_04_20 ~2022_06_09
 
 ----------------------------------------------------------
@@ -55,12 +56,12 @@ Team meaning : "자신의 고유의 아름다움과 개성을 찾아 자신에 �
 1. Dlib 모델을 활용한 닮은꼴 찾기 알고리즘 코드 
 
   
-    [More link🔗](https://github.com/junnnn-a/About_Me/tree/main/Models/lookalike%20algorithm)  
+    [More link🔗](https://github.com/junnnn-a/About_Me/blob/main/Models/lookalike%20algorithm/scores_.py)  
 
 2. Stargan-v2 모델 코드
 
 
-    [More link🔗](https://github.com/junnnn-a/About_Me/tree/main/Models/StarGAN%20V2)
+    [More link🔗](https://github.com/clovaai/stargan-v2)
 
     
   ++ 코드 실행을 위한 데이터 링크 -> inf_code/models 폴더 내에 위치
